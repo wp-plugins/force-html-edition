@@ -1,26 +1,1 @@
-=== Plugin Name ===
-Contributors: magnetik
-Donate link: http://magnetik.org
-Tags: edit
-Requires at least: 2.7
-Tested up to: 3.0.4
-Stable tag: 0.1
-
-This wordpress plugin only have one functionality : force html edition for a (or some) specific post(s)..
-
-== Description ==
-
-This wordpress plugin only have one functionality : force html edition for a (or some) specific post(s).
-
-== Installation ==
-
-1. Upload `force-html-edit` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. That's it !
-
-
-== Changelog ==
-
-= 0.1 =
-
-First version
+=== Plugin Name ===Contributors: magnetikDonate link: http://magnetik.orgTags: editRequires at least: 2.7Tested up to: 3.2.1Stable tag: 0.2This wordpress plugin only have one functionality : force html edition for a (or some) specific post(s)..== Description ==This wordpress plugin only have one functionality : force html edition for a (or some) specific post(s).== Installation ==1. Upload `force-html-edit` folder to the `/wp-content/plugins/` directory2. Activate the plugin through the 'Plugins' menu in WordPress3. That's it !== Frequently Asked Questions === Where is this option =The option should be located on the right side under the "Save" box on every page/post edit.== Changelog === 0.2 =* Changed "Tested up to" : 3.2.1* Added FAQ * Added Screenshot= 0.1 =First version
